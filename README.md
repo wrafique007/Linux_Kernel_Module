@@ -3,7 +3,7 @@ This project is about a Linux Kernel Module for LCD which used HD44780 LCD contr
 
 # Hardware Used
 * BeagleBone black
-* FTDI USB to TTL converter (This was used for communicating with Linux over UART) 
+* FTDI USB to TTL converter (This was used to communicate with Linux over UART) 
 
 # Source Code Description
   ### Makefile
