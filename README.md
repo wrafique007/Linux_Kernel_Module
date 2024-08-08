@@ -1,5 +1,5 @@
 # Project Description
-This project is about a Linux Kernel Module for LCD which used HD44780 LCD controller. The kernel module was developed for embedded Linux(version 5.4) executing on BeagleBone Black
+This project is about a Linux Kernel Module of LCD which used HD44780 LCD controller. The kernel module was developed for embedded Linux(version 5.4) executing on BeagleBone Black
 
 # Hardware Used
 * BeagleBone black
